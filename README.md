@@ -1,5 +1,5 @@
 
-👋 Hello! I'm [Your Name], a [Your Role/Title] passionate about [Your Interests].
+👋 Hello! I'm Mario Simental, a Computer Science undergraduate passionate about gaming, puzzles, and computing!
 
 ## 🚀 About Me
 
