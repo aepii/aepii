@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mario Simental!
 
-A Computer Science undergraduate passionate about gaming, puzzles, and computing!
+A Computer Science undergraduate passionate about gaming, puzzles, and coding!
 
 ## 🚀 About Me
 
