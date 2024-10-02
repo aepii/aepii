@@ -18,8 +18,8 @@ A Computer Science undergraduate passionate about gaming, puzzles, and coding!
 
 ## 📚 Current Projects
 
-- Working on AutomataExplorer.
-- Exploring OpenCV, BeautifulSoup, and Flask.
+- Working on CubeTutor.
+- Exploring Numpy, OpenCV, BeautifulSoup, Three.js, and Django (DRF).
 
 ## 📫 Contact
 
