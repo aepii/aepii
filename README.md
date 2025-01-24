@@ -1,4 +1,6 @@
-# 👋 Hello, I'm Mario Simental!
+# 👋 Hello, I'm [Mario Simental!](https://www.linkedin.com/in/mario-simental-66747620a/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariosimental&label=Profile%20views&color=0e75b6&style=flat" alt="mariosimental" /> </p>  
 
 A Computer Science undergraduate passionate about gaming, puzzles, and coding!
 
