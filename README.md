@@ -11,8 +11,13 @@ A Computer Science undergraduate passionate about gaming, puzzles, and coding!
 
 ## 🔧 Skills
 
-- **Programming Languages:** Python and Lua.
-- **Learning:** C, C++, JavaScript, and HTML.
+- **Programming Languages:** Python, Lua,  C, C++, JavaScript, TypeScript.
+- **Scripting Languages:** HTML, CSS, SASS, SQL
+- **Libraries & Tools:**
+  - **Frontend**: React, Three.js, Zustand
+  - **Backend**: Express, Django, JWT, cookie-parser
+  - **Database**: MongoDB, SQL, Mongoose
+  - **Utilities**: OpenCV, BeautifulSoup, NumPy
 
 ## 🌐 Connect with Me
 
